@@ -1,0 +1,186 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [aria-hidden] [ref=e3]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - generic [ref=e8]: Alonso
+          - generic [ref=e9]: 00:00:00:00
+        - generic [ref=e10]:
+          - generic [ref=e12]: V3
+          - generic [ref=e17]: V2
+          - generic [ref=e22]: V1
+          - generic [ref=e28]: A1
+        - generic [ref=e32]:
+          - generic [ref=e33]: Building the sequence
+          - generic [ref=e34]: 0%
+      - button [ref=e35] [cursor=pointer]: Skip intro
+    - banner [ref=e40]:
+      - generic [ref=e41]:
+        - link "Alonso, back to top" [ref=e42] [cursor=pointer]:
+          - /url: "#top"
+          - text: Alonso
+        - navigation "Primary" [ref=e44]:
+          - link "UGC ads" [ref=e45] [cursor=pointer]:
+            - /url: "#ugc"
+          - link "Short-form" [ref=e46] [cursor=pointer]:
+            - /url: "#short"
+          - link "Long-form" [ref=e47] [cursor=pointer]:
+            - /url: "#long"
+          - link "About" [ref=e48] [cursor=pointer]:
+            - /url: "#about"
+        - generic [ref=e49]:
+          - generic "Page position as timecode" [ref=e50]: 00:00:00:00
+          - link "Book a project" [ref=e51] [cursor=pointer]:
+            - /url: "#contact"
+    - main [ref=e53]:
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - paragraph [ref=e57]:
+              - generic [ref=e59]: Taking on projects now
+            - heading "Alonso Video editor" [level=1] [ref=e60]:
+              - generic [ref=e61]: Alonso
+              - generic [ref=e62]: Video editor
+            - paragraph [ref=e63]: I edit UGC ads, short-form content and long-form videos for brands and creators, paced to hold attention and finished with sound, color and captions.
+            - generic [ref=e64]:
+              - button "Play showreel" [ref=e65] [cursor=pointer]
+              - link "See the work" [ref=e68] [cursor=pointer]:
+                - /url: "#ugc"
+          - generic [ref=e69]:
+            - img "3D statue of Anakin Skywalker holding a glowing lime lightsaber. His head follows your cursor." [ref=e70]
+            - generic [aria-hidden]:
+              - generic: Track 01 98%
+            - paragraph [ref=e71]: Click him for a spin
+        - generic [ref=e73]:
+          - generic [ref=e74]:
+            - generic [ref=e75]: "Sequence: Selected work"
+            - generic [ref=e76]: Hover to scrub. Click a clip to watch it.
+          - generic [ref=e77]:
+            - generic [ref=e79]: V3
+            - generic [ref=e82]: V2
+            - generic [ref=e85]: V1
+            - generic [ref=e88]: A1
+      - generic [ref=e92]:
+        - generic [ref=e93]:
+          - generic [ref=e94]: V1
+          - heading "UGC ads" [level=2] [ref=e95]
+          - paragraph [ref=e96]: Hook-first ads that feel native to the feed. Built for paid social, cut in variations for testing.
+          - generic [ref=e97]: 0 clips, 9:16
+        - generic [ref=e98]:
+          - button "Play Never buy a SIM again" [ref=e99]:
+            - generic [ref=e100]:
+              - generic [ref=e103]: 00:00:00
+              - generic [ref=e104]:
+                - generic [ref=e105]: Sponsored
+                - generic [ref=e106]: 0:31
+              - generic [ref=e114]:
+                - generic [ref=e115]: "@esimio"
+                - generic [ref=e116]: Never buy a SIM again
+          - button "Play No way they made Invincible a game" [ref=e117]:
+            - generic [ref=e118]:
+              - generic [ref=e121]: 00:00:00
+              - generic [ref=e122]:
+                - generic [ref=e123]: Sponsored
+                - generic [ref=e124]: 0:38
+              - generic [ref=e132]:
+                - generic [ref=e133]: "@invincible:guardingtheglobe"
+                - generic [ref=e134]: No way they made Invincible a game
+          - 'button "Play POV: you found OOC" [ref=e135]':
+            - generic [ref=e136]:
+              - generic [ref=e139]: 00:00:00
+              - generic [ref=e140]:
+                - generic [ref=e141]: Sponsored
+                - generic [ref=e142]: 0:25
+              - generic [ref=e150]:
+                - generic [ref=e151]: "@ooc"
+                - generic [ref=e152]: "POV: you found OOC"
+          - button "Play Titan Rush" [ref=e153]:
+            - generic [ref=e154]:
+              - generic [ref=e157]: 00:00:00
+              - generic [ref=e158]:
+                - generic [ref=e159]: Sponsored
+                - generic [ref=e160]: 0:21
+              - generic [ref=e168]:
+                - generic [ref=e169]: "@titanrush"
+                - generic [ref=e170]: Titan Rush
+          - button "Play Brownlad" [ref=e171]:
+            - generic [ref=e172]:
+              - generic [ref=e175]: 00:00:00
+              - generic [ref=e176]:
+                - generic [ref=e177]: Sponsored
+                - generic [ref=e178]: 0:32
+              - generic [ref=e186]:
+                - generic [ref=e187]: "@creatorad"
+                - generic [ref=e188]: Brownlad
+          - button "Play Phone hook" [ref=e189]:
+            - generic [ref=e190]:
+              - generic [ref=e193]: 00:00:00
+              - generic [ref=e194]:
+                - generic [ref=e195]: Sponsored
+                - generic [ref=e196]: 0:29
+              - generic [ref=e204]:
+                - generic [ref=e205]: "@jv"
+                - generic [ref=e206]: Phone hook
+        - paragraph [ref=e207]: Hover to fan through the ads. Click one to play it.
+      - generic [ref=e210]:
+        - generic [ref=e211]: V2
+        - heading "Short-form" [level=2] [ref=e212]
+        - paragraph [ref=e213]: Reels, TikToks and Shorts with tight pacing, kinetic captions and sound design that keeps people to the last frame.
+        - generic [ref=e214]: 0 clips, drag to browse
+      - generic [ref=e218]:
+        - generic [ref=e219]: V3
+        - heading "Long-form" [level=2] [ref=e220]
+        - paragraph [ref=e221]: YouTube breakdowns and longer edits, structured with chapters, b-roll and pacing that keep a 13-minute video moving.
+        - generic [ref=e222]: 0 videos, 16:9
+      - generic [ref=e224]:
+        - generic [ref=e225]:
+          - heading "About" [level=2] [ref=e226]
+          - paragraph [ref=e227]: "I'm Alonso. I treat every cut as a decision: what to keep, what to lose, and how long to hold before the viewer moves on."
+          - paragraph [ref=e228]: I work with brands, agencies and creators on paid social, organic content and long-form YouTube videos. You send the footage and the goal. I send back an edit that's paced for the platform, with clean audio, color and captions, plus versions to test.
+        - complementary "Details" [ref=e229]:
+          - generic [ref=e230]: Export settings
+      - generic [ref=e232]:
+        - heading "How a project runs" [level=2] [ref=e234]
+        - list [ref=e235]:
+          - listitem [ref=e236]:
+            - text: 00:00
+            - heading "Brief" [level=3] [ref=e237]
+            - paragraph [ref=e238]: Goal, audience, platform and references, so the edit has a direction before the first cut.
+          - listitem [ref=e239]:
+            - text: 00:15
+            - heading "Rough cut" [level=3] [ref=e240]
+            - paragraph [ref=e241]: Hook, story and structure locked in. Pacing built around retention, not runtime.
+          - listitem [ref=e242]:
+            - text: 00:30
+            - heading "Polish" [level=3] [ref=e243]
+            - paragraph [ref=e244]: "Motion, captions, sound design and color: the layer that makes it feel finished."
+          - listitem [ref=e245]:
+            - text: 00:45
+            - heading "Deliver" [level=3] [ref=e246]
+            - paragraph [ref=e247]: Platform-ready exports, hook variations and revisions until it's right.
+      - generic [ref=e249]:
+        - heading "Got footage? Let's cut it." [level=2] [ref=e250]: Got footage?Let's cut it.
+        - generic [ref=e251]:
+          - paragraph [ref=e252]: Tell me what you're making, where it's going and when you need it. I usually reply within a day.
+          - link "skywalker4lonso@gmail.com" [ref=e253] [cursor=pointer]:
+            - /url: "#"
+          - generic [ref=e254]:
+            - link "Email me" [ref=e255] [cursor=pointer]:
+              - /url: "#"
+            - button "Copy address" [ref=e256] [cursor=pointer]
+          - link "Message di4bolical._ on Discord" [ref=e257] [cursor=pointer]:
+            - /url: https://discord.com/channels/@me
+            - generic [ref=e262]:
+              - generic [ref=e263]:
+                - generic [ref=e264]: di4bolical._
+                - generic [aria-hidden] [ref=e265]: ١٥٧٤
+              - generic [ref=e274]: 😳 disturo makawa
+              - generic [aria-hidden] [ref=e275]: ❄
+            - generic [aria-hidden] [ref=e276]: Message
+    - contentinfo [ref=e279]:
+      - generic [ref=e280]:
+        - generic [ref=e281]: © 2026 Alonso
+        - link "Back to top" [ref=e282] [cursor=pointer]:
+          - /url: "#top"
+    - status
+  - alert [ref=e283]
